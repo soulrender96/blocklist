@@ -1,0 +1,13 @@
+https://stats.wp.com
+https://browser.sentry-cdn.com
+https://static.ads-twitter.com
+https://analytics.twitter.com
+https://analytics.pointdrive.linkedin.com
+https://ads.pinterest.com
+https://log.pinterest.com
+https://widgets.pinterest.com
+https://appmetrica.yandex.com
+https://yandexadexchange.net
+https://extmaps-api.yandex.net
+https://samsung-com.112.2o7.net
+https://analytics-api.samsunghealthcn.com
