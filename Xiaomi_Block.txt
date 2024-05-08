@@ -1,1 +1,11 @@
-
+https://api.ad.xiaomi.com
+https://app.chat.xiaomi.net
+https://data.mistat.xiaomi.com
+https://data.mistat.intl.xiaomi.com
+https://data.mistat.intl.xiaomi.com
+https://sdkconfig.ad.xiaomi.com
+https://sdkconfig.ad.intl.xiaomi.com
+https://globalapi.ad.xiaomi.com
+https://www.cdn.ad.xiaomi.com
+https://tracking.miui.com
+https://tracking.intl.miui.com
